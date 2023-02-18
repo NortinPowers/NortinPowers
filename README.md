@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Alexander 
+I'm java developer and I'm open to work
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NortinPowers&theme=github_dark)
 
 <!--
 **NortinPowers/NortinPowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
