@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Aleksander
+# Hi there 👋 I'm Aleksandr
 ### I'm java developer and I'm open to work
 
 ⚡ Java SE/EE/FX, Maven, JUnit, Lombok, REST, JDBC, SQL, XML, JSON, MVC, Tomcat, HTML/CSS, JSP, JSTL, Bootstrap, Postman, Git&GitHub ⚡
