@@ -20,8 +20,12 @@
 ![H2](https://img.shields.io/badge/h2-%234285b4.svg?style=for-the-badge&logo=h2&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+![Docker](https://img.shields.io/badge/Dockerc-%231b6195?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Basic](https://img.shields.io/badge/Visual_Basic-%231b6195?style=for-the-badge&logo=visual-basic&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23fbb368.svg?style=for-the-badge&logo=jenkins&logoColor=black)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=#d16c06)
+![Linux](https://img.shields.io/badge/Linux-%23663300?style=for-the-badge&logo=Linux&logoColor=white)
 
 <!--
 **NortinPowers/NortinPowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
