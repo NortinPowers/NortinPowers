@@ -11,6 +11,8 @@
 ![REST](https://img.shields.io/badge/rest-%236600ff.svg?style=for-the-badge&logo=rest&logoColor=white)
 ![JPA](https://img.shields.io/badge/jpa-%23cc0000.svg?style=for-the-badge&logo=jpa&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-%23fbb368.svg?style=for-the-badge&logo=hibernate&logoColor=black)
+![JUnit](https://img.shields.io/badge/junit-%23749e00.svg?style=for-the-badge&logo=junit&logoColor=white)
+![Mackito](https://img.shields.io/badge/mackito-%23c2000d.svg?style=for-the-badge&logo=mackito&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%23749e00.svg?style=for-the-badge&logo=swagger&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238b36eb.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
