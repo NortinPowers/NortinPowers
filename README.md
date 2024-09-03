@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Aleksandr
-### I'm java developer and I'm open to work
+### I'm java developer
 
 ⚡ Java SE/EE/FX, Spring, JPA, Hibernate, SOLID, AOP, Maven, Gradle, JUnit, Mockito, Lombok, REST, Design and Java EE Patterns, Loggers, JDBC, SQL, ACID, XML, JSON, MVC, Tomcat, HTML/CSS, JSP, JSTL, Bootstrap, Postman, Swagger, Git&GitHub ⚡
 
