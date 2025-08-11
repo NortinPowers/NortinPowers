@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aleksandr
 ### I'm java developer
 
-⚡ Java SE/EE/FX, Spring, JPA, Hibernate, SOLID, AOP, Maven, Gradle, JUnit, Mockito, Lombok, REST, Design and Java EE Patterns, Loggers, JDBC, SQL, ACID, XML, JSON, MVC, Tomcat, HTML/CSS, JSP, JSTL, Bootstrap, Postman, Swagger, Git&GitHub ⚡
+⚡ Java SE/EE/FX, Spring Boot, JPA, Hibernate, SOLID, AOP, Maven, Gradle, JUnit, Mockito, Lombok, REST, Design and Java EE Patterns, AWS SQS, Loggers, JDBC, JDBI, SQL, ACID, Elactic Elc, Camunda, Keycloak, XML, JSON, MVC, Tomcat, HTML/CSS, JSP, JSTL, Bootstrap, Postman, Swagger, Git ⚡
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=NortinPowers&theme=github_dark)
 
